@@ -1,0 +1,196 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+li {
+  list-style: none; }
+
+html, body {
+  width: 100%;
+  height: 100%; }
+
+.box {
+  width: 1080px;
+  height: 1920px;
+  margin: 100px auto;
+  background: url(../img/bg.png) no-repeat;
+  background-size: 100% 100%;
+  position: relative; }
+
+.box .top {
+  position: absolute;
+  left: 0;
+  top: 21px;
+  width: 1080px;
+  height: 116px;
+  margin-top: 10px; }
+
+.box .top p {
+  width: 1080px;
+  height: 116px;
+  text-align: center;
+  line-height: 116px;
+  font-size: 30px;
+  color: #fff;
+  font-weight: 800; }
+
+.box .top p span {
+  color: #37C1FF;
+  font-size: 45px; }
+
+.box .top p b {
+  color: #17BF8C;
+  font-size: 45px; }
+
+.two {
+  width: 1080px;
+  height: 674px;
+  position: absolute;
+  left: 0;
+  top: 126px; }
+
+.two dl {
+  width: 1080px;
+  height: 674px; }
+
+.two dl dt {
+  float: left;
+  width: 500px;
+  height: 674px; }
+
+.two dl dt .one {
+  padding-top: 10px;
+  padding-left: 187px; }
+
+.two dl dt .three {
+  margin-top: -157px;
+  margin-left: -21px; }
+
+.two dl dt .four {
+  margin-top: -123px;
+  margin-left: 132px; }
+
+.box .two dl dd {
+  float: right;
+  width: 515px;
+  height: 674px;
+  padding-top: 116px;
+  padding-right: 65px; }
+
+.box .two dl dd h1 {
+  font-weight: 800;
+  color: #fff;
+  float: right;
+  font-size: 50px; }
+
+.box .two dl dd h5 {
+  float: right;
+  font-weight: 800;
+  color: #fff;
+  margin-top: 60px;
+  margin-right: -128px;
+  font-size: 25px; }
+
+.box .two dl dd p {
+  float: right;
+  font-weight: 800;
+  color: #fff;
+  font-size: 25px;
+  margin-top: 10px;
+  line-height: 25px;
+  text-indent: 44px; }
+
+.box .content {
+  width: 1080px;
+  height: 1090px;
+  position: absolute;
+  top: 830px;
+  left: 0; }
+
+.box .content div {
+  width: 1080px;
+  height: 1090px; }
+
+.box .content div .pic1 {
+  padding-left: 117px;
+  padding-top: 34px;
+  background: url(../img/1.png) no-repeat; }
+
+.box .content div .pic1 dt {
+  margin-left: 490px;
+  margin-top: -15px; }
+
+.box .content div .pic1 dd {
+  float: left; }
+
+.box .content div .pic1 .picspan {
+  color: #fff;
+  font-size: 30px;
+  margin-top: 27px;
+  margin-left: 24px; }
+
+.box .content div .pic1 dd ul {
+  margin-left: 50px;
+  margin-top: 100px; }
+
+.box .content div .pic1 dd ul li {
+  text-align: center;
+  color: #fff;
+  font-size: 30px;
+  line-height: 55px; }
+
+.box .content div .pic2 {
+  margin-left: 50px;
+  background: url(../img/3.png) no-repeat; }
+
+.box .content div .pic2 dt {
+  margin-left: -46px;
+  margin-top: 10px; }
+
+.box .content div .pic2 dd {
+  float: left;
+  margin-left: 200px; }
+
+.box .content div .pic2 .picspan {
+  color: #fff;
+  font-size: 30px;
+  margin-top: -280px;
+  margin-left: 700px; }
+
+.box .content div .pic2 dd ul {
+  padding-left: 212px;
+  margin-top: -217px; }
+
+.box .content div .pic2 dd ul li {
+  text-align: center;
+  color: #fff;
+  font-size: 30px;
+  line-height: 55px; }
+
+.box .content div .pic3 {
+  padding-left: 117px;
+  padding-top: 34px;
+  background: url(../img/1.png) no-repeat; }
+
+.box .content div .pic3 dt {
+  margin-left: 490px;
+  margin-top: -15px; }
+
+.box .content div .pic3 dd {
+  float: left; }
+
+.box .content div .pic3 .picspan {
+  color: #fff;
+  font-size: 30px;
+  margin-top: 27px;
+  margin-left: 24px; }
+
+.box .content div .pic3 dd ul {
+  margin-left: 50px;
+  margin-top: 100px; }
+
+.box .content div .pic3 dd ul li {
+  text-align: center;
+  color: #fff;
+  font-size: 30px;
+  line-height: 55px; }
